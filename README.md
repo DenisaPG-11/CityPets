@@ -11,7 +11,7 @@ CityPets is a **mobile application** that aims to help both pets owners, people 
 The user needs to first register into the application. After they register, they have to login into the application every time, using the username and password.  
 
 As a user, you have a news feed with all the recents posts and a menu where you can choose to see just what you’re interested in:
-- Pets donation announcements;
+- Pets adoption announcements;
 - Lost pets announcements;
 - Pets found in the streets;
 - Pets care announcements.  
